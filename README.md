@@ -49,12 +49,12 @@ FT2_CONFIG=/Users/macmini/work2/jh/bin/freetype-config ./configure -prefix=/User
 # SDL2_mixer
 ./configure -prefix=/Users/macmini/work2/jh --disable-shared --enable-static
 
-smpeg2
+# smpeg2
 ./configure -prefix=/Users/macmini/work2/jh --disable-shared --enable-static
 
 -------------------
 
-onscripter-jh
+# onscripter-jh
 PATH=/Users/macmini/work2/jh/bin:$PATH make
 # clang: error: unsupported option '-fopenmp'  
 ```
