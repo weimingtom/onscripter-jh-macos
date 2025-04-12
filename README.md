@@ -1,6 +1,15 @@
 # onscripter-jh-macos
 How to build onscripter-jh in Mac mini and macOS, only for me
 
+## Machine info  
+* Mac mini (Late 2014), 1.4GHz two cores intel Core i5  
+* 4GB 1600 MHz DDR3  
+* Intel HD Graphics 5000 1536 MB  
+* macOS Big Sur, version 11.6.5  
+* Xcode 11.7 (11E801a), not used Xcode 12.5.1 (12E507)
+* Apple clang version 11.0.3 (clang-1103.0.32.62), Target: x86_64-apple-darwin20.6.0
+* Darwin 20.6.0 2022 x86_64
+
 ## References  
 * onscripter-jh_macos_prefix_build_v1.zip  
 
